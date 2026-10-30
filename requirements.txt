@@ -1,0 +1,12 @@
+river
+transformers
+pandas
+scikit-learn
+fastapi
+uvicorn
+numpy
+torch
+sentencepiece
+scipy
+typing-extensions
+python-dotenv
